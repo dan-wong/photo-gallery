@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dan-wong/photo-gallery/static/css/main.fd15cc50.chunk.css",
-    "main.js": "/dan-wong/photo-gallery/static/js/main.59c6f825.chunk.js",
-    "main.js.map": "/dan-wong/photo-gallery/static/js/main.59c6f825.chunk.js.map",
-    "runtime-main.js": "/dan-wong/photo-gallery/static/js/runtime-main.4673ce85.js",
-    "runtime-main.js.map": "/dan-wong/photo-gallery/static/js/runtime-main.4673ce85.js.map",
-    "static/js/2.dfb20aee.chunk.js": "/dan-wong/photo-gallery/static/js/2.dfb20aee.chunk.js",
-    "static/js/2.dfb20aee.chunk.js.map": "/dan-wong/photo-gallery/static/js/2.dfb20aee.chunk.js.map",
-    "index.html": "/dan-wong/photo-gallery/index.html",
-    "precache-manifest.555bf802739798e844484e00258c16ed.js": "/dan-wong/photo-gallery/precache-manifest.555bf802739798e844484e00258c16ed.js",
-    "service-worker.js": "/dan-wong/photo-gallery/service-worker.js",
-    "static/css/main.fd15cc50.chunk.css.map": "/dan-wong/photo-gallery/static/css/main.fd15cc50.chunk.css.map",
-    "static/js/2.dfb20aee.chunk.js.LICENSE": "/dan-wong/photo-gallery/static/js/2.dfb20aee.chunk.js.LICENSE"
+    "main.css": "/photo-gallery/static/css/main.fd15cc50.chunk.css",
+    "main.js": "/photo-gallery/static/js/main.32d9a03e.chunk.js",
+    "main.js.map": "/photo-gallery/static/js/main.32d9a03e.chunk.js.map",
+    "runtime-main.js": "/photo-gallery/static/js/runtime-main.2bfb7d54.js",
+    "runtime-main.js.map": "/photo-gallery/static/js/runtime-main.2bfb7d54.js.map",
+    "static/js/2.dfb20aee.chunk.js": "/photo-gallery/static/js/2.dfb20aee.chunk.js",
+    "static/js/2.dfb20aee.chunk.js.map": "/photo-gallery/static/js/2.dfb20aee.chunk.js.map",
+    "index.html": "/photo-gallery/index.html",
+    "precache-manifest.ee3fcfdb62fd8406c95a23a132f7a308.js": "/photo-gallery/precache-manifest.ee3fcfdb62fd8406c95a23a132f7a308.js",
+    "service-worker.js": "/photo-gallery/service-worker.js",
+    "static/css/main.fd15cc50.chunk.css.map": "/photo-gallery/static/css/main.fd15cc50.chunk.css.map",
+    "static/js/2.dfb20aee.chunk.js.LICENSE": "/photo-gallery/static/js/2.dfb20aee.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.4673ce85.js",
+    "static/js/runtime-main.2bfb7d54.js",
     "static/js/2.dfb20aee.chunk.js",
     "static/css/main.fd15cc50.chunk.css",
-    "static/js/main.59c6f825.chunk.js"
+    "static/js/main.32d9a03e.chunk.js"
   ]
 }
