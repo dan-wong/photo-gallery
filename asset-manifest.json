@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dan-wong/photo-gallery/static/css/main.b2c7c061.chunk.css",
+    "main.css": "/dan-wong/photo-gallery/static/css/main.fd15cc50.chunk.css",
     "main.js": "/dan-wong/photo-gallery/static/js/main.59c6f825.chunk.js",
     "main.js.map": "/dan-wong/photo-gallery/static/js/main.59c6f825.chunk.js.map",
     "runtime-main.js": "/dan-wong/photo-gallery/static/js/runtime-main.4673ce85.js",
@@ -8,15 +8,15 @@
     "static/js/2.dfb20aee.chunk.js": "/dan-wong/photo-gallery/static/js/2.dfb20aee.chunk.js",
     "static/js/2.dfb20aee.chunk.js.map": "/dan-wong/photo-gallery/static/js/2.dfb20aee.chunk.js.map",
     "index.html": "/dan-wong/photo-gallery/index.html",
-    "precache-manifest.b05fe82df0188d5e8ce71757f12829bb.js": "/dan-wong/photo-gallery/precache-manifest.b05fe82df0188d5e8ce71757f12829bb.js",
+    "precache-manifest.555bf802739798e844484e00258c16ed.js": "/dan-wong/photo-gallery/precache-manifest.555bf802739798e844484e00258c16ed.js",
     "service-worker.js": "/dan-wong/photo-gallery/service-worker.js",
-    "static/css/main.b2c7c061.chunk.css.map": "/dan-wong/photo-gallery/static/css/main.b2c7c061.chunk.css.map",
+    "static/css/main.fd15cc50.chunk.css.map": "/dan-wong/photo-gallery/static/css/main.fd15cc50.chunk.css.map",
     "static/js/2.dfb20aee.chunk.js.LICENSE": "/dan-wong/photo-gallery/static/js/2.dfb20aee.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.4673ce85.js",
     "static/js/2.dfb20aee.chunk.js",
-    "static/css/main.b2c7c061.chunk.css",
+    "static/css/main.fd15cc50.chunk.css",
     "static/js/main.59c6f825.chunk.js"
   ]
 }

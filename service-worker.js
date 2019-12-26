@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dan-wong/photo-gallery/precache-manifest.b05fe82df0188d5e8ce71757f12829bb.js"
+  "/dan-wong/photo-gallery/precache-manifest.555bf802739798e844484e00258c16ed.js"
 );
 
 self.addEventListener('message', (event) => {
