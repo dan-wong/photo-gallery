@@ -6,13 +6,13 @@ export const photos = [
     height: 4,
     alt: "IMG_001"
   },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=17S65JGhd3JVe5u7HJtMiT5D8yeehmu1-",
-    width: 6,
-    height: 4,
-    alt: "IMG_002"
-  },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=17S65JGhd3JVe5u7HJtMiT5D8yeehmu1-",
+  //   width: 6,
+  //   height: 4,
+  //   alt: "IMG_002"
+  // },
   {
     src:
       "https://drive.google.com/uc?export=view&id=1JK15juMnkzkhif0G43uRkxa3TZTZF5R5",
@@ -55,13 +55,13 @@ export const photos = [
     height: 3,
     alt: "IMG_011"
   },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=10tSEaS-80jNqZk83omxGxLyg6jbvCmKa",
-    width: 2,
-    height: 3,
-    alt: "IMG_012"
-  },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=10tSEaS-80jNqZk83omxGxLyg6jbvCmKa",
+  //   width: 2,
+  //   height: 3,
+  //   alt: "IMG_012"
+  // },
   {
     src:
       "https://drive.google.com/uc?export=view&id=1U2rGjIKw28s7rra1TMiV8nfr2CZd8imD",
@@ -69,34 +69,34 @@ export const photos = [
     height: 3,
     alt: "IMG_013"
   },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=1mho3XTXzHXrztAx1QObi2OxBAuY8JjWX",
-    width: 6,
-    height: 4,
-    alt: "IMG_004"
-  },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=1i0rexGg629WP8867-GKzHjcZdImlNxdG",
-    width: 6,
-    height: 4,
-    alt: "IMG_005"
-  },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=1H_gg8GzoHUiwDsE96aLkwsqXXY580tRJ",
-    width: 6,
-    height: 4,
-    alt: "IMG_008"
-  },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=19newnWHMeOjQMGFrqTnAmhU6LXEl__q1",
-    width: 6,
-    height: 4,
-    alt: "IMG_006"
-  },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=1mho3XTXzHXrztAx1QObi2OxBAuY8JjWX",
+  //   width: 6,
+  //   height: 4,
+  //   alt: "IMG_004"
+  // },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=1i0rexGg629WP8867-GKzHjcZdImlNxdG",
+  //   width: 6,
+  //   height: 4,
+  //   alt: "IMG_005"
+  // },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=1H_gg8GzoHUiwDsE96aLkwsqXXY580tRJ",
+  //   width: 6,
+  //   height: 4,
+  //   alt: "IMG_008"
+  // },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=19newnWHMeOjQMGFrqTnAmhU6LXEl__q1",
+  //   width: 6,
+  //   height: 4,
+  //   alt: "IMG_006"
+  // },
   {
     src:
       "https://drive.google.com/uc?export=view&id=1KUh9v2BNXGQYOkuD8d4V-DQ0Sl1q_vx-",
@@ -111,13 +111,13 @@ export const photos = [
     height: 3,
     alt: "IMG_015"
   },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=1Tk__S2WSgnWFoazsu8dRDWMIlkY8GtbH",
-    width: 399,
-    height: 299,
-    alt: "IMG_016"
-  },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=1Tk__S2WSgnWFoazsu8dRDWMIlkY8GtbH",
+  //   width: 399,
+  //   height: 299,
+  //   alt: "IMG_016"
+  // },
   {
     src:
       "https://drive.google.com/uc?export=view&id=1DceZLEIha12_n76C6JZEB7DtbxYN49ZV",
@@ -139,13 +139,13 @@ export const photos = [
     height: 2,
     alt: "IMG_019"
   },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=1js7K8SsO6WTVGwTRjE8GNAZVHesxnHmF",
-    width: 6,
-    height: 4,
-    alt: "IMG_003"
-  },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=1js7K8SsO6WTVGwTRjE8GNAZVHesxnHmF",
+  //   width: 6,
+  //   height: 4,
+  //   alt: "IMG_003"
+  // },
   {
     src:
       "https://drive.google.com/uc?export=view&id=1CYrD-aF6NivQbaiZQ-Xa8IzjibN6iwtf",
@@ -174,25 +174,25 @@ export const photos = [
     height: 3,
     alt: "IMG_025"
   },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=14KjU1EoG1JhLhvK7qZ55tdGfrGVPWf5X",
-    width: 2,
-    height: 3,
-    alt: "IMG_026"
-  },
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=14KjU1EoG1JhLhvK7qZ55tdGfrGVPWf5X",
+  //   width: 2,
+  //   height: 3,
+  //   alt: "IMG_026"
+  // },
   {
     src:
       "https://drive.google.com/uc?export=view&id=1XkCYJ2Q6ok_NgG8hzpB6ngUrmVN0MYNe",
     width: 6,
     height: 4,
     alt: "IMG_027"
-  },
-  {
-    src:
-      "https://drive.google.com/uc?export=view&id=1a5DZU7xAKK-f4LusQAoHVC7PdYGSihVH",
-    width: 6,
-    height: 4,
-    alt: "IMG_028"
   }
+  // {
+  //   src:
+  //     "https://drive.google.com/uc?export=view&id=1a5DZU7xAKK-f4LusQAoHVC7PdYGSihVH",
+  //   width: 6,
+  //   height: 4,
+  //   alt: "IMG_028"
+  // }
 ];
